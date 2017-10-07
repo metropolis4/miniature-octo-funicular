@@ -1,0 +1,7 @@
+.user-card {
+  width: 100%;
+}
+
+.user-actions > button {
+  margin-left: 6px;
+}

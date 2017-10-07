@@ -1,0 +1,10 @@
+.user-list-item:hover {
+  cursor: pointer;
+  color: #fff;
+  background: #007bff;
+}
+
+.selected {
+  color: #fff;
+  background: #007bff;
+}

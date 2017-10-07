@@ -1,9 +1,9 @@
 .App-header {
   background-color: #2B2231;
   height: 60px;
-  padding: 20px;
+  padding: 15px 90px;
   color: #F0E5F1;
-  text-align: center;
+  text-align: left;
 }
 
 .App-title {
@@ -12,4 +12,15 @@
 
 .App-intro {
   font-size: large;
+}
+
+.App-content {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 90px;
+}
+
+.App-content > div {
+  width: 30%;
+  margin-right: 25px;
 }
